@@ -1,5 +1,6 @@
 config
-python-telegram-bot
+pyTelegramBotAPI
+pytelegrambotapi --upgrade
 nltk
 numpy
 googletrans
