@@ -4,7 +4,6 @@ pytelegrambotapi
 sklearn
 scikit-learn
 python3-sklearn
-scikit-learn scipy matplotlib
 nltk
 numpy
 googletrans
