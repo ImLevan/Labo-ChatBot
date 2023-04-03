@@ -1,6 +1,7 @@
 config
 pyTelegramBotAPI
 pytelegrambotapi
+telebot
 scikit-learn
 nltk
 numpy
