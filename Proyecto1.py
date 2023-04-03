@@ -1,6 +1,7 @@
 from config import * # impprtamos el token
 import telebot # api de telegram
 import nltk
+import os
 import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
