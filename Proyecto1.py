@@ -101,7 +101,7 @@ from telebot.types import ReplyKeyboardRemove
 from telebot.types import ReplyKeyboardMarkup 
 #frfrom telebot.types importom telebot.types import ForceReply
 # intsncias del bot
-bot = telebot.TeleBot("5905080197:AAFhi_y1IzI_XxeLLglKS39IHZavpbRlwOw", 8080)
+bot = telebot.TeleBot("5905080197:AAFhi_y1IzI_XxeLLglKS39IHZavpbRlwOw")
 #responde al start
 @bot.message_handler(commands=["start"])
 #Funcion
