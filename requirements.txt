@@ -1,4 +1,5 @@
 config
+python-telegram-bot
 nltk
 numpy
 googletrans
