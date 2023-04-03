@@ -5,8 +5,6 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 import string # to process standard python strings
-import multiprocessing
-from multiprocessing import freeze_support
 
 
 import nltk
@@ -146,9 +144,11 @@ def verificarRespuesta(message):
 
      else:
          return True
+
+app = Flask(__name__)
          
 #MAIN
 if __name__=='__main__':
     print('Iniciando el bot')
     bot.infinity_polling()
-    freeze_support()	
+   app.run()
