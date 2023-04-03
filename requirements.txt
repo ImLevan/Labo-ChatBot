@@ -1,9 +1,7 @@
 config
 pyTelegramBotAPI
 pytelegrambotapi
-sklearn
 scikit-learn
-python3-sklearn
 nltk
 numpy
 googletrans
