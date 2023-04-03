@@ -4,6 +4,5 @@ pytelegrambotapi
 telebot
 scikit-learn
 nltk
-flask
 numpy
 googletrans
